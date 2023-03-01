@@ -1,0 +1,76 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    margin: 0
+}
+
+code {
+    font-family: source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace
+}
+
+* {
+    box-sizing: border-box
+}
+
+.con2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.con1 {
+    background-image: linear-gradient(#538ec5,pink,#fff);
+    height: 90vh;
+    margin-top: 0;
+    padding: 30px
+}
+
+.con3 {
+    display: flex;
+    margin-top: 80px
+}
+
+button {
+    border-radius: 30px;
+    font-size: 20px;
+    height: 45px;
+    margin-left: 10px;
+    width: 200px
+}
+
+input {
+    height: 40px;
+    margin-top: 80px;
+    width: 500px
+}
+
+tr {
+    background-color: #fff
+}
+
+ul {
+    align-items: center;
+    background-color: #000;
+    display: flex;
+    font-family: Courier New,Courier,monospace;
+    font-size: 30px;
+    height: 55px;
+    justify-content: space-evenly;
+    margin-bottom: 0;
+    margin-top: 0
+}
+
+li {
+    color: #fff
+}
+
+Link,a,a:hover,li {
+    text-decoration: none
+}
+
+li:hover {
+    color: aqua
+}
+
+/*# sourceMappingURL=main.52039046.css.map*/
